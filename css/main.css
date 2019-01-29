@@ -1,0 +1,21 @@
+body {
+  background-color: #5a9b5d; }
+
+h1 {
+  color: #f5f5f5; }
+
+ul {
+  text-align: center; }
+
+li {
+  list-style: none;
+  display: inline; }
+
+a {
+  color: #000;
+  text-decoration: none; }
+
+p {
+  color: #4d828b; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,27 @@
+// basic styles
+
+body {
+    background-color: $bgcolor;
+}
+
+h1 { 
+    color: $headings;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+a {
+    color: $links;
+    text-decoration: none;
+}
+
+p {
+    color: $text;
+}
